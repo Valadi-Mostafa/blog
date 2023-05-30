@@ -1,1 +1,1 @@
-View online porject <a href="https://itblog.netlify.app">Blog</a>
+View online porject <a target="_blank" href="https://itblog.netlify.app">Blog</a>
