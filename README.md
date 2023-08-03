@@ -1,1 +1,2 @@
-View online porject <a target="_blank" href="https://itblog.netlify.app">Blog</a>
+• Styled with Material UI, Developed in React with Javascript and Used GraphQL for APIs<br />
+• Used React Router for managing routes and client-side navigation
